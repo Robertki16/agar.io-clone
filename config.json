@@ -4,7 +4,7 @@
     "logpath": "logger.php",
     "foodMass": 2,
     "fireFood": 500,
-    "limitSplit": 100,
+    "limitSplit": 500,
     "defaultPlayerMass": 15,
 	"virus": {
     "fill": "#66ff33",
@@ -33,7 +33,7 @@
     "minMassLoss": 5,
     "mergeTimer": 15,
     "sqlinfo":{
-      "connectionLimit": 100,
+      "connectionLimit": 2,
       "host": "bob",
       "user": "bob",
       "password": "bob",
