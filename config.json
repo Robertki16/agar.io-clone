@@ -19,7 +19,7 @@
     "gameWidth": 5000,
     "gameHeight": 5000,
     "adminPass": "bob",
-    "gameMass": 2000000,
+    "gameMass": 20000000,
     "maxFood": 50000,
     "maxVirus": 70,
     "slowBase": 5.0,
