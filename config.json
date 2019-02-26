@@ -4,7 +4,7 @@
     "logpath": "logger.php",
     "foodMass": 2,
     "fireFood": 500,
-    "limitSplit": 500,
+    "limitSplit": 50,
     "defaultPlayerMass": 15,
 	"virus": {
     "fill": "#66ff33",
@@ -19,7 +19,7 @@
     "gameWidth": 5000,
     "gameHeight": 5000,
     "adminPass": "bob",
-    "gameMass": 2000000,
+    "gameMass": 200000,
     "maxFood": 5000,
     "maxVirus": 70,
     "slowBase": 7.0,
@@ -33,7 +33,7 @@
     "minMassLoss": 5,
     "mergeTimer": 15,
     "sqlinfo":{
-      "connectionLimit": 2,
+      "connectionLimit": 100,
       "host": "bob",
       "user": "bob",
       "password": "bob",
