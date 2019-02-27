@@ -66,11 +66,11 @@ div {
 .chatbox {
     position: absolute;
     width: 300px;
-    height: 320px;
+    height: 350px;
     background: rgba(255, 255, 255, 0.7);
     bottom: 5px;
     left: 5px;
-    border-radius: 5px;
+    border-radius: 10px;
     pointer-events: none;
 }
 
