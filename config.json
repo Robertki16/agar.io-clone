@@ -1,6 +1,6 @@
 {
-    "host": "192.168.1.180",
-    "port":8000,
+    "host": "0.0.0.0",
+    "port":3000,
     "logpath": "logger.php",
     "foodMass": 2,
     "fireFood": 500,
@@ -20,7 +20,7 @@
     "gameHeight": 10000,
     "adminPass": "bob",
     "gameMass": 999999999,
-    "maxFood": 10 250,
+    "maxFood": 10250,
     "maxVirus": 65,
     "slowBase": 7.0,
     "logChat": 0,
